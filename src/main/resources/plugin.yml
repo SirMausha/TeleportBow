@@ -1,0 +1,10 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.jin.teleportbow.TeleportBow
+api-version: 1.19
+authors: [ DMJin ]
+description: Teleport bow!
+commands:
+  getbow:
+    description: Gives the teleport bow
+    usage: /getbow
